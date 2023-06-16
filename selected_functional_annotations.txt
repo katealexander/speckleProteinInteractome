@@ -1,0 +1,124 @@
+#node	identifier	category	term ID	term description
+ALYREF	9606.ENSP00000421592	STRING clusters	CL:1598	Mixed, incl. transcription export complex, and snrna export from nucleus
+AP5Z1	9606.ENSP00000297562	GO Process	GO:0006281	DNA repair
+ATXN7L3	9606.ENSP00000397259	GO Process	GO:0006325	Chromatin organization
+BAZ2A	9606.ENSP00000446880	GO Process	GO:0006325	Chromatin organization
+BCAS2	9606.ENSP00000358554	GO Component	GO:0071007	U2-type catalytic step 2 spliceosome
+BRD1	9606.ENSP00000216267	GO Process	GO:0006325	Chromatin organization
+BRD2	9606.ENSP00000378704	GO Process	GO:0006325	Chromatin organization
+CBX3	9606.ENSP00000336687	GO Process	GO:0006325	Chromatin organization
+CDK11A	9606.ENSP00000384442	GO Process	GO:1903311	Regulation of mrna metabolic process
+CDK11B	9606.ENSP00000464036	GO Process	GO:1903311	Regulation of mrna metabolic process
+CDK13	9606.ENSP00000181839	GO Process	GO:0006366	Transcription by rna polymerase ii
+CHTOP	9606.ENSP00000357679	STRING clusters	CL:1598	Mixed, incl. transcription export complex, and snrna export from nucleus
+COPS4	9606.ENSP00000264389	GO Process	GO:0006281	DNA repair
+CPSF6	9606.ENSP00000266679	GO Process	GO:1903311	Regulation of mrna metabolic process
+CWC15	9606.ENSP00000475615	GO Component	GO:0071007	U2-type catalytic step 2 spliceosome
+CWC22	9606.ENSP00000387006	GO Process	GO:1903311	Regulation of mrna metabolic process
+CWC22	9606.ENSP00000387006	GO Component	GO:0071005	U2-type precatalytic spliceosome
+CWC22	9606.ENSP00000387006	GO Component	GO:0071006	U2-type catalytic step 1 spliceosome
+CWC22	9606.ENSP00000387006	GO Component	GO:0071007	U2-type catalytic step 2 spliceosome
+CWC25	9606.ENSP00000478070	GO Component	GO:0071006	U2-type catalytic step 1 spliceosome
+DDX17	9606.ENSP00000380033	GO Process	GO:1903311	Regulation of mrna metabolic process
+DDX39A	9606.ENSP00000242776	STRING clusters	CL:1598	Mixed, incl. transcription export complex, and snrna export from nucleus
+DDX39B	9606.ENSP00000379475	STRING clusters	CL:1598	Mixed, incl. transcription export complex, and snrna export from nucleus
+E2F3	9606.ENSP00000262904	GO Process	GO:0006366	Transcription by rna polymerase ii
+EHMT2	9606.ENSP00000364678	GO Process	GO:0006325	Chromatin organization
+EPC2	9606.ENSP00000258484	GO Process	GO:0006281	DNA repair
+EPC2	9606.ENSP00000258484	GO Process	GO:0006325	Chromatin organization
+EXOSC7	9606.ENSP00000265564	GO Process	GO:1903311	Regulation of mrna metabolic process
+FYTTD1	9606.ENSP00000241502	STRING clusters	CL:1598	Mixed, incl. transcription export complex, and snrna export from nucleus
+GADD45A	9606.ENSP00000360025	GO Process	GO:0006281	DNA repair
+GTF2H4	9606.ENSP00000259895	GO Process	GO:0006281	DNA repair
+GTF2H4	9606.ENSP00000259895	GO Process	GO:0006366	Transcription by rna polymerase ii
+H2AFX	9606.ENSP00000434024	GO Process	GO:0006281	DNA repair
+H2AFX	9606.ENSP00000434024	GO Process	GO:0006325	Chromatin organization
+HDAC4	9606.ENSP00000264606	GO Process	GO:0006325	Chromatin organization
+HDAC5	9606.ENSP00000225983	GO Process	GO:0006325	Chromatin organization
+HELQ	9606.ENSP00000295488	GO Process	GO:0006281	DNA repair
+HP1BP3	9606.ENSP00000312625	GO Process	GO:0006325	Chromatin organization
+IK	9606.ENSP00000396301	GO Process	GO:1903311	Regulation of mrna metabolic process
+IK	9606.ENSP00000396301	GO Component	GO:0071005	U2-type precatalytic spliceosome
+ISY1	9606.ENSP00000273541	GO Process	GO:0006281	DNA repair
+ISY1	9606.ENSP00000273541	GO Component	GO:0071006	U2-type catalytic step 1 spliceosome
+KAT6A	9606.ENSP00000380136	GO Process	GO:0006325	Chromatin organization
+KDM6B	9606.ENSP00000254846	GO Process	GO:0006325	Chromatin organization
+KIF22	9606.ENSP00000160827	GO Process	GO:0006281	DNA repair
+MAPK14	9606.ENSP00000229795	GO Process	GO:1903311	Regulation of mrna metabolic process
+MBD4	9606.ENSP00000249910	GO Process	GO:0006281	DNA repair
+MED17	9606.ENSP00000251871	GO Process	GO:0006366	Transcription by rna polymerase ii
+MORF4L1	9606.ENSP00000331310	GO Process	GO:0006281	DNA repair
+MORF4L1	9606.ENSP00000331310	GO Process	GO:0006325	Chromatin organization
+NCAPG2	9606.ENSP00000387007	GO Process	GO:0006366	Transcription by rna polymerase ii
+PABPN1	9606.ENSP00000216727	GO Process	GO:0006366	Transcription by rna polymerase ii
+PABPN1	9606.ENSP00000216727	GO Process	GO:1903311	Regulation of mrna metabolic process
+PABPN1	9606.ENSP00000216727	STRING clusters	CL:1598	Mixed, incl. transcription export complex, and snrna export from nucleus
+PALB2	9606.ENSP00000261584	GO Process	GO:0006281	DNA repair
+PARN	9606.ENSP00000387911	GO Process	GO:1903311	Regulation of mrna metabolic process
+PLRG1	9606.ENSP00000424417	GO Component	GO:0071007	U2-type catalytic step 2 spliceosome
+POLDIP3	9606.ENSP00000397927	STRING clusters	CL:1598	Mixed, incl. transcription export complex, and snrna export from nucleus
+POLI	9606.ENSP00000462664	GO Process	GO:0006281	DNA repair
+POLR2D	9606.ENSP00000272645	GO Process	GO:0006281	DNA repair
+POLR2D	9606.ENSP00000272645	GO Process	GO:0006366	Transcription by rna polymerase ii
+PPIE	9606.ENSP00000361918	GO Process	GO:0006281	DNA repair
+PPIE	9606.ENSP00000361918	GO Component	GO:0071007	U2-type catalytic step 2 spliceosome
+PRKAA1	9606.ENSP00000346148	GO Process	GO:0006325	Chromatin organization
+PRPF19	9606.ENSP00000227524	GO Process	GO:0006281	DNA repair
+PRPF19	9606.ENSP00000227524	GO Process	GO:1903311	Regulation of mrna metabolic process
+PRPF19	9606.ENSP00000227524	GO Component	GO:0071006	U2-type catalytic step 1 spliceosome
+PRPF19	9606.ENSP00000227524	GO Component	GO:0071007	U2-type catalytic step 2 spliceosome
+PRPF4	9606.ENSP00000363313	GO Component	GO:0071005	U2-type precatalytic spliceosome
+PRPF6	9606.ENSP00000266079	GO Component	GO:0071005	U2-type precatalytic spliceosome
+PSMD13	9606.ENSP00000396937	GO Process	GO:1903311	Regulation of mrna metabolic process
+PSMD8	9606.ENSP00000215071	GO Process	GO:1903311	Regulation of mrna metabolic process
+RBM10	9606.ENSP00000328848	GO Process	GO:1903311	Regulation of mrna metabolic process
+RBM14	9606.ENSP00000311747	GO Process	GO:0006325	Chromatin organization
+RBM25	9606.ENSP00000261973	GO Process	GO:1903311	Regulation of mrna metabolic process
+RBM39	9606.ENSP00000253363	GO Process	GO:1903311	Regulation of mrna metabolic process
+RBM8A	9606.ENSP00000463058	GO Process	GO:1903311	Regulation of mrna metabolic process
+RBM8A	9606.ENSP00000463058	GO Component	GO:0071006	U2-type catalytic step 1 spliceosome
+RREB1	9606.ENSP00000369270	GO Process	GO:0006366	Transcription by rna polymerase ii
+RTEL1	9606.ENSP00000353332	GO Process	GO:0006281	DNA repair
+SARNP	9606.ENSP00000337632	STRING clusters	CL:1598	Mixed, incl. transcription export complex, and snrna export from nucleus
+SART1	9606.ENSP00000310448	GO Component	GO:0071005	U2-type precatalytic spliceosome
+SETD1A	9606.ENSP00000262519	GO Process	GO:0006325	Chromatin organization
+SETD2	9606.ENSP00000386759	GO Process	GO:0006281	DNA repair
+SETD2	9606.ENSP00000386759	GO Process	GO:0006325	Chromatin organization
+SETD2	9606.ENSP00000386759	GO Process	GO:0006366	Transcription by rna polymerase ii
+SF3A1	9606.ENSP00000215793	GO Component	GO:0071005	U2-type precatalytic spliceosome
+SF3A3	9606.ENSP00000362110	GO Component	GO:0071005	U2-type precatalytic spliceosome
+SF3B1	9606.ENSP00000335321	GO Component	GO:0071005	U2-type precatalytic spliceosome
+SF3B2	9606.ENSP00000318861	GO Component	GO:0071005	U2-type precatalytic spliceosome
+SF3B4	9606.ENSP00000271628	GO Process	GO:1903311	Regulation of mrna metabolic process
+SF3B4	9606.ENSP00000271628	GO Component	GO:0071005	U2-type precatalytic spliceosome
+SIRT7	9606.ENSP00000329466	GO Process	GO:0006281	DNA repair
+SIRT7	9606.ENSP00000329466	GO Process	GO:0006325	Chromatin organization
+SMC5	9606.ENSP00000354957	GO Process	GO:0006281	DNA repair
+SNRNP40	9606.ENSP00000263694	GO Component	GO:0071007	U2-type catalytic step 2 spliceosome
+SNRPA1	9606.ENSP00000254193	GO Component	GO:0071005	U2-type precatalytic spliceosome
+SNRPA1	9606.ENSP00000254193	GO Component	GO:0071007	U2-type catalytic step 2 spliceosome
+SNRPB2	9606.ENSP00000246071	GO Component	GO:0071005	U2-type precatalytic spliceosome
+SNRPB2	9606.ENSP00000246071	GO Component	GO:0071007	U2-type catalytic step 2 spliceosome
+SON	9606.ENSP00000348984	GO Process	GO:1903311	Regulation of mrna metabolic process
+SREK1	9606.ENSP00000334538	GO Process	GO:1903311	Regulation of mrna metabolic process
+SRRM2	9606.ENSP00000301740	GO Component	GO:0071005	U2-type precatalytic spliceosome
+SRRM2	9606.ENSP00000301740	GO Component	GO:0071007	U2-type catalytic step 2 spliceosome
+SRSF4	9606.ENSP00000362900	GO Process	GO:1903311	Regulation of mrna metabolic process
+SRSF6	9606.ENSP00000244020	GO Process	GO:1903311	Regulation of mrna metabolic process
+SYF2	9606.ENSP00000236273	GO Component	GO:0071007	U2-type catalytic step 2 spliceosome
+TADA2B	9606.ENSP00000308022	GO Process	GO:0006325	Chromatin organization
+TAF5L	9606.ENSP00000258281	GO Process	GO:0006325	Chromatin organization
+TAF5L	9606.ENSP00000258281	GO Process	GO:0006366	Transcription by rna polymerase ii
+TCEB3	9606.ENSP00000395574	GO Process	GO:0006366	Transcription by rna polymerase ii
+THOC1	9606.ENSP00000261600	STRING clusters	CL:1598	Mixed, incl. transcription export complex, and snrna export from nucleus
+THOC6	9606.ENSP00000326531	STRING clusters	CL:1598	Mixed, incl. transcription export complex, and snrna export from nucleus
+THOC7	9606.ENSP00000295899	STRING clusters	CL:1598	Mixed, incl. transcription export complex, and snrna export from nucleus
+THRAP3	9606.ENSP00000346634	GO Process	GO:1903311	Regulation of mrna metabolic process
+TRIP12	9606.ENSP00000373696	GO Process	GO:0006281	DNA repair
+U2AF2	9606.ENSP00000307863	GO Process	GO:1903311	Regulation of mrna metabolic process
+USP22	9606.ENSP00000261497	GO Process	GO:0006325	Chromatin organization
+USP36	9606.ENSP00000441214	GO Process	GO:0006325	Chromatin organization
+VPS72	9606.ENSP00000346464	GO Process	GO:0006325	Chromatin organization
+WTAP	9606.ENSP00000351141	GO Process	GO:1903311	Regulation of mrna metabolic process
+ZC3H14	9606.ENSP00000251038	GO Process	GO:1903311	Regulation of mrna metabolic process
+ZC3H18	9606.ENSP00000416951	STRING clusters	CL:1598	Mixed, incl. transcription export complex, and snrna export from nucleus
